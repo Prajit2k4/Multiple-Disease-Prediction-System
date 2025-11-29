@@ -1,0 +1,5 @@
+{
+  "name": "MediTriage AI",
+  "description": "An intelligent, interactive medical assessment tool that conducts a symptom-based interview and generates a probabilistic differential diagnosis report.",
+  "requestFramePermissions": []
+}
